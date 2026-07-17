@@ -59,8 +59,6 @@ Power BI Desktop
 - `accounts` — linked to customers and branches; balance correlates with segment
 - `transactions` — linked to accounts; ~3% randomly flagged as high-value anomalies
 
-*(Add an ERD image here once created, e.g. `![ERD](screenshots/erd.png)`)*
-
 ## SQL Views
 
 | View | Purpose |
@@ -113,4 +111,4 @@ bank-analyst-project/
 ├── finance_dark_theme.json  # Power BI custom theme
 ├── Bank-analytics.pbix      # Power BI dashboard file
 └── README.md
-```
+``
