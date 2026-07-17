@@ -1,0 +1,23 @@
+{
+  "name": "Finance Dark Navy",
+  "dataColors": [
+    "#D4AF37",
+    "#5B9BD5",
+    "#70AD47",
+    "#E06C75",
+    "#8E7CC3",
+    "#4FC1C1",
+    "#F2A65A",
+    "#C77DFF"
+  ],
+  "background": "#0F1B2D",
+  "foreground": "#E8ECF1",
+  "tableAccent": "#D4AF37",
+  "good": "#5CB85C",
+  "bad": "#E06C75",
+  "neutral": "#F2C94C",
+  "maximum": "#D4AF37",
+  "center": "#8E7CC3",
+  "minimum": "#0F1B2D",
+  "null": "#4A5568"
+}
